@@ -11,3 +11,13 @@ CREATE TABLE Biodata
         Phone_Number VARCHAR(9) NOT NULL UNIQUE KEY,
         PRIMARY KEY(Matric_Number)
     );
+
+INSERT INTO Biodata
+VALUES
+    (
+        (),
+        (),
+        ()
+    );
+
+DESCRIBE Biodata;
